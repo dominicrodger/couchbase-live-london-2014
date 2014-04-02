@@ -40,7 +40,7 @@ N1QL (/ˈnɪkəl/) is an expressive, SQL-like query languages. The "N1"
 comes from non-`first normal form
 <http://en.wikipedia.org/wiki/First_normal_form>`_, meaning we relax
 the requirements of first normal form, allowing for duplication of
-data.
+data. See my notes on the :ref:`N1QL <n1ql>` session.
 
 Common use cases
 ----------------

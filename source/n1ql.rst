@@ -1,3 +1,5 @@
+.. _n1ql:
+
 A N1QL for every Query
 ======================
 
