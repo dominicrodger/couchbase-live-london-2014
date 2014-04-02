@@ -14,4 +14,3 @@ Contents:
    couchbase_for_mobile
    couchbase_node
    n1ql
-   panel_discussion
