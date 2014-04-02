@@ -1,3 +1,5 @@
+.. _amadeus:
+
 Opening Keynote: Amadeus Case Study
 ===================================
 

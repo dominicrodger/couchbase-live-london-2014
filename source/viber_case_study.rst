@@ -1,3 +1,5 @@
+.. _viber:
+
 Opening Keynote: Viber Case Study
 =================================
 
