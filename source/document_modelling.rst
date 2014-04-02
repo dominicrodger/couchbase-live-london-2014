@@ -1,7 +1,10 @@
 The Art & Science of Document Modelling
 =======================================
 
-*Session by Jasdeep Jaitla, Technical Evangelist, Couchbase.*
+.. sidebar:: Session Information
+
+    Track 2 session by **Jasdeep Jaitla**, Technical Evangelist,
+    **Couchbase**, 11:50am, 2nd April 2014.
 
 Basics of Data in Couchbase
 ---------------------------

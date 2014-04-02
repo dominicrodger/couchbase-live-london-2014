@@ -1,7 +1,10 @@
 Anatomy of a Couchbase App
 ==========================
 
-*Session by Matthew Revell & J Chris Anderson, Couchbase.*
+.. sidebar:: Session Information
+
+    Track 2 session by **Matthew Revell & J Chris Anderson**,
+    **Couchbase**, 11:05am, 2nd April 2014.
 
 * Uses Couchbase for asset storage and keyspace management;
 * Doesn't require complex queries - build your Couchbase key using

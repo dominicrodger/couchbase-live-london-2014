@@ -1,7 +1,10 @@
 Couchbase Server Unplugged
 ==========================
 
-*Session by Ravi Mayuram, VP of Engineering, Couchbase.*
+.. sidebar:: Session Information
+
+    Track 1 session by **Ravi Mayuram**, VP of Engineering,
+    **Couchbase**, 1:15pm, 2nd April 2014.
 
 Why do we need Couchbase Server?
 --------------------------------

@@ -1,7 +1,10 @@
 Node.js & Couchbase - Full Stack JSON
 =====================================
 
-*Session by Philipp Fehre, Technical Evangelist, Couchbase.*
+.. sidebar:: Session Information
+
+    Track 2 session by **Philipp Fehre**, Technical Evangelist,
+    **Couchbase**, 2:45pm, 2nd April 2014.
 
 To make a game API, you need to make things fast, and you need to be
 able to scale. Most players won't pay you anything, so you need to be

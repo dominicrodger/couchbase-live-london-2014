@@ -3,7 +3,10 @@
 Opening Keynote: Viber Case Study
 =================================
 
-*Session by Amir Ish-Shalom, System Architect, Viber.*
+.. sidebar:: Session Information
+
+    Keynote session by **Amir Ish-Shalom**, System Architect,
+    **Viber**, 10:15pm, 2nd April 2014.
 
 Viber originated three years ago as an iPhone app for VOIP, they've
 now got text messaging, video chat, and a version for

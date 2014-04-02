@@ -3,8 +3,10 @@
 Opening Keynote: Amadeus Case Study
 ===================================
 
-*Session by Dietmar Fauser, VP, Architecture, Quality & Governance,
-Amadeus.*
+.. sidebar:: Session Information
+
+    Keynote session by **Dietmar Fauser**, VP, Architecture, Quality
+    & Governance, **Amadeus**, 9:45am, 2nd April 2014.
 
 Amadeus sits between travel providers and travels agents, linking up
 travel agents with hotels, flights, etc. The main users of their

@@ -1,7 +1,10 @@
 JSON Anywhere: Couchbase for Mobile
 ===================================
 
-*Session by Wayne Carter & J Chris Anderson, Couchbase.*
+.. sidebar:: Session Information
+
+    Track 1 session by **Wayne Carter & J Chris Anderson**,
+    **Couchbase**, 2:00pm, 2nd April 2014.
 
 .. note::
 
