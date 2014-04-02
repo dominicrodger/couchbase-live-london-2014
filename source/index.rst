@@ -12,6 +12,6 @@ Contents:
    document_modelling
    couchbase_server_unplugged
    couchbase_for_mobile
-   couchbase_lite
+   couchbase_node
    couchbase_in_flight
    panel_discussion
