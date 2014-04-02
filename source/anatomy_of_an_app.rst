@@ -6,11 +6,13 @@ Anatomy of a Couchbase App
     Track 2 session by **Matthew Revell & J Chris Anderson**,
     **Couchbase**, 11:05am, 2nd April 2014.
 
-* Uses Couchbase for asset storage and keyspace management;
-* Doesn't require complex queries - build your Couchbase key using
+J Chris Anderson demonstrated a web app somewhat similar to Snapchat, which:
+
+* uses Couchbase for asset storage and keyspace management;
+* doesn't require complex queries - build your Couchbase key using
   predictable key patterns;
-* Couchbase provides ordering, immutable keys and expiry;
-* Built with Express, React.js and PubNub.
+* uses Couchbase to provide ordering, immutable keys and expiry;
+* is built with Express, React.js and PubNub.
 
 How it works
 ------------
