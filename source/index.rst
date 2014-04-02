@@ -13,5 +13,5 @@ Contents:
    couchbase_server_unplugged
    couchbase_for_mobile
    couchbase_node
-   couchbase_in_flight
+   niql
    panel_discussion
