@@ -69,7 +69,7 @@ conditions using ``IS MISSING`` and ``IS NULL``.
 N1QL also allows you to join data between multiple buckets.
 
 .. [1] Ilam said he doesn't like the term *schemaless*, since data in
-       NoSQL databases still have schemas, it's just that it's
+       NoSQL databases still have schemas, it's just that they're
        flexible, and may vary between values.
 
 .. [2] Ilam mentioned that a commonly asked question was whether
