@@ -11,6 +11,5 @@ Contents:
    anatomy_of_an_app
    document_modelling
    couchbase_server_unplugged
-   couchbase_for_mobile
    couchbase_node
    n1ql
